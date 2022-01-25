@@ -1,0 +1,21 @@
+h1.plantilla{
+    color: orange;
+    text-align: center;
+    background-color: black;
+    font-weight: bold;
+}
+p.futbolistas{
+    color: black;
+    text-align: left;
+    font-weight: bold;
+}
+p.defensas{
+    font-weight: bold;
+}
+p.centrocampistas{
+font-weight: bold;
+}
+p.delanteros{
+    font-weight: bold;
+
+}
