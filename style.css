@@ -1,21 +1,10 @@
-h1.plantilla{
+h1.vcf{
     color: orange;
-    text-align: center;
     background-color: black;
     font-weight: bold;
+    text-align: center;
 }
-p.futbolistas{
-    color: black;
-    text-align: left;
-    font-weight: bold;
-}
-p.defensas{
-    font-weight: bold;
-}
-p.centrocampistas{
-font-weight: bold;
-}
-p.delanteros{
-    font-weight: bold;
 
+p.valenciacf{
+    text-align: center;
 }
