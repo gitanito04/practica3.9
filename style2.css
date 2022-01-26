@@ -1,0 +1,10 @@
+h1.entrades{
+    color: orange;
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+p.img{
+    text-align: center;
+}
